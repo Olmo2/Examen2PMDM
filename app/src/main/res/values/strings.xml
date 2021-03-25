@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Examen2-PMDM</string>
+    <string name="tituloPrincipal">¿Qué quieres hacer?</string>
+    <string name="crearNotas">Añadir notas</string>
+    <string name="buscarNota">Buscar una nota</string>
+    <string name="verNotas">Ver notas</string>
+    <string name="crearNota">Crear</string>
+    <string name="seleccionarNota">Selecciona una Nota</string>
+    <string name="ayudaContenidoNota">Contenido de la nota</string>
+    <string name="ayudaNombreNota">Nombre o título de la Nota</string>
+    <string name="ayudaTipo">Tipo de la Nota</string>
+    <string name="editarNota">Editar</string>
+    <string name="guardarNota">Guardar</string>
+    <string name="borrarNota">Eliminar</string>
+    <string name="mostrarNota">Mostrar</string>
+    <string name="cancelarOperacion">Cancelar</string>
+    <string name="lista">Lista de notas</string>
+</resources>

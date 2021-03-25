@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/anadir"
+        android:icon="@android:drawable/ic_menu_upload"
+        android:orderInCategory="100"
+        android:title="Añadir"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/buscar"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="Buscar"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/ver"
+        android:icon="@android:drawable/ic_menu_view"
+        android:orderInCategory="100"
+        android:title="Ver"
+        app:showAsAction="always" />
+</menu>
